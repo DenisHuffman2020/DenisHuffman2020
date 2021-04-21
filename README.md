@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisHuffman2020
 - 👀 I have taught Cyber Security and Computer Network Technology for 20 years.
 - 🌱 I’m interested in learning Python and Java Script.
-- 💞️ I’m looking to collaborate with students.
+- 💞️ I’m looking to learn how to collaborate with my students on GitHub.
 - 📫 My e-mail is Denis.Huffman@tutanota.com.
 
 <!---
